@@ -1,6 +1,9 @@
 # Webpage preview 
 
-<img width="1680" alt="Online Calculator Program" src="https://github.com/ZDunc/calculator/blob/main/calculator.png">
+<img width="800" alt="Online Calculator Program" src="https://github.com/ZDunc/calculator/blob/main/calculator.png">
+
+## Check out the page here!
+[Calculator](https://zdunc.github.io/calculator/)
 
 ## Check out the page here!
 
