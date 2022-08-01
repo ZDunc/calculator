@@ -5,10 +5,6 @@
 ## Check out the page here!
 [Calculator](https://zdunc.github.io/calculator/)
 
-## Check out the page here!
-
-[Etch-A-Sketch](https://zdunc.github.io/etch-a-sketch/)
-
 ### Introduction
 
 You made it! By now you should have a _really_ firm grasp on the fundamentals of JavaScript. Of course there's plenty more to learn, but you should be able to create quite a bit at this point. Our final project is going to combine everything you've learned so far: you're going to make an on-screen calculator using JavaScript, HTML, and CSS.
